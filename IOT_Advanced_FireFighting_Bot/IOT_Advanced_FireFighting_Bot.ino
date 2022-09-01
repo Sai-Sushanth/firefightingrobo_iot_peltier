@@ -18,7 +18,7 @@
 #define echo D9
 #define sw D2
    
-bool motorval =0;
+bool motorval =0;//PORAA PUKAAAAAAAAAAA
 bool pumpval =0;
 bool forward = 0;
 bool backward = 0;
